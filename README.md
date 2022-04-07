@@ -1,5 +1,10 @@
+# branch可以更改
+1. ios_app dice game
+2. ios_app Simple_app_Segue pass data to another page
+
 # ios_app 1
 因為此程式只針對swift語法，所以ui介面不是太美觀，請見諒。
+
 
 ## 系統簡介
 使用者按button後， 會產生使用者點數和電腦點數，大家比大小，誰比較大就會獲勝。
