@@ -1,4 +1,4 @@
-# branch可以更改
+# git branch
 1. ios_app dice game
 2. ios_app Simple_app_Segue pass data to another page
 
